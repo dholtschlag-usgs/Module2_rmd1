@@ -116,3 +116,31 @@ knitr::kable(head(cars),
 ## Insert an Equation
 
 $$ Y = \beta_0 + \beta_1x $$
+
+
+## Insert Images
+
+Here is an image inserted
+
+![sunstar](Sunstar/sunstar.png)
+Here is the R logo  
+
+![r logo](https://www.r-project.org/logo/Rlogo.svg)
+
+
+## Insert an Animated GIF and video
+
+[sunstar](Sunstar/sunstar.gif)
+
+## ![sunstar](Sunstar/sunstar.mp4)
+
+## Insert different types of footnotes.
+
+First, the endnote version [^1] something else, then [^longnote] finsh up. 
+
+An inline note, in contrast, might be something like ^[I want to say this.]
+
+[^1]Say something here.
+
+[^longnote]something else goes here. 
+
